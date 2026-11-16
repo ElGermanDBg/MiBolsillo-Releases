@@ -1,0 +1,20 @@
+﻿{
+  "versionCode": 16,
+  "versionName": "2.8.0",
+  "minSdkVersion": 26,
+  "releaseDate": "2026-11-15",
+  "apkUrl": "https://github.com/ElGermanDBg/MiBolsillo-Releases/releases/download/v2.8.0/MiBolsillo-2.8.0.apk",
+  "apkFileName": "MiBolsillo-2.8.0.apk",
+  "apkSize": "11.92 MB",
+  "sha256": "329c6f4603c3cf9f9ccd070fde87e71f3dc75422fe0415f3053291eabbc19e23",
+  "releaseTitle": "v2.8.0 — Revolución Anti-Tedio: Fintech Bottom Sheet, Entrada Natural, Cuota Diaria y Rachas",
+  "releaseNotes": [
+    "Fintech Bottom Sheet ergonómico para registrar movimientos con una sola mano.",
+    "Entrada rápida en lenguaje natural: escribe o dicta 'almuerzo 14k trans' o 'tinto 1500'.",
+    "Calculadora integrada en tiempo real (ej. 2000 + 3500) directamente en el monto.",
+    "Teclado táctil in-app con respuesta háptica inmediata.",
+    "Cuota Segura de Hoy (Daily Safe-to-Spend) calculada en tiempo real.",
+    "Sistema de Rachas Diarias (Streaks 🔥) y Niveles de Maestría Financiera con XP.",
+    "Sugerencias contextuales de 1 toque adaptadas a la hora del día."
+  ]
+}
